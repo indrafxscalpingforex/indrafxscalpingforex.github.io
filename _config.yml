@@ -107,11 +107,17 @@ icon-192p: "/img/web-app/icon-192p-indra.png"
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "July 2018"
+    description: "Start My New Profile Website on [indrafxscalping.me](https://indrafxscalping.me)"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "End Of 2017"
+    description: "I Forget to Pay The Domain Renewal on Godaddy and they Sell my Domain For a hundredfold #FkkingGODADDY"
+  - image: "/img/timeline/spidertocat.png"
+    date: "2010"
+    description: "Start My Very First PAID EA on indrafxscalping.net!"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2006-2010"
+    description: "Doing Manual trading, Share Many Technique With Indonesian Forex Forum"
 
 # First image of the Timeline
 
@@ -144,9 +150,9 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info/"
   - title: "rss"
     url: "/feed.xml"
 
